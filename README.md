@@ -3,9 +3,8 @@
 > A simple Solidity smart contract that creates an **immutable on-chain challenge record** system — built for fair play, transparency, and verifiable history.
 
 ---
+<img width="1502" height="836" alt="sol ss" src="https://github.com/user-attachments/assets/ed81b6e7-4a93-4d97-91a3-59f3171aa6dd" />
 
-
-![Uploading image.png…]()
 
 
 ## 📖 Project Description
